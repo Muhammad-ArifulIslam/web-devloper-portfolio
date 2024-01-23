@@ -128,6 +128,16 @@ max-width: 580px;
 
 /* main section styles */
 
+main{
+
+    max-width: 1140px;
+    margin: 0 auto;
+
+
+}
+
+
+/* about section styles */
 .about{
 
     padding: 150px;
@@ -154,6 +164,42 @@ font-weight: 700;
     font-family: "Open Sans";
     font-size: 18px;
     font-weight: 400;
+    line-height: 30px;
+
+
+}
+
+.about-info-container{
+
+display: flex;
+justify-content: space-around;
+
+}
+
+.about-info{
+
+text-align: center;
+
+
+}
+
+.info-title{
+
+    color:#757575;
+    text-align: center;
+    font-family: "Open Sans";
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+
+}
+
+.info-description{
+
+    color: #474747;
+    font-family: "Open Sans";
+    font-size: 20px;
+    font-weight: 700;
     line-height: 30px;
 
 
