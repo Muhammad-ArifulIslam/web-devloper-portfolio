@@ -289,3 +289,65 @@ margin-top: 0;
 
 
     }
+
+    /* footer style */
+
+    footer{
+
+        display:flex;
+        gap: 100px;
+        background: #FFF8F3;
+        margin-top: 120px;
+        padding: 130px 230px;
+
+ }
+
+ .section-title{
+
+    color: #181818;
+    text-align: left;
+    font-family: "Open Sans";
+    font-size: 35px;
+    font-weight: 700;
+
+ }
+
+ .section-description{
+
+    color: #474747;
+font-family: "Open Sans";
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+margin-top: 20px;
+margin-bottom: 30px;
+text-align: left;
+
+
+ }
+
+ .footer-column{
+
+width: 50%;
+
+}
+
+.social-links a{
+
+    margin-right: 25px;
+}
+
+.contact input[type="text"], .contact input[type="email"], textarea{
+
+display: block;
+margin-bottom: 25px;
+padding: 18px 35px;
+color:#757575;
+border-radius: 5px;
+background:#FFF;
+border: 0;
+width: 100%;
+
+
+}
+
