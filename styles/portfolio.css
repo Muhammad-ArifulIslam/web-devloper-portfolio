@@ -204,3 +204,39 @@ text-align: center;
 
 
 }
+
+#i-do{
+
+    padding: 30px;
+
+}
+
+/* skills related style */
+
+.skills-container{
+
+display: flex;
+
+}
+
+.skill{
+
+    padding: 30px;
+    gap: 25px;
+
+}
+
+.skill-description{
+
+}
+
+/* resume section title */
+
+.resume-column-title{
+
+    color: #474747;
+    font-family: "Open Sans";
+    font-size: 30px;
+    font-weight: 700;
+    
+    }
